@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cathayvn.b2c",
+    "sha256_cert_fingerprints": [
+      "5B:17:16:E4:CB:74:BF:2C:98:98:65:15:14:63:05:01:D4:5C:C6:3D:FF:E5:D6:53:2F:0F:A4:58:E1:15:A5:BE"
+    ]
+  }
+}]
