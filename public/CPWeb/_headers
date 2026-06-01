@@ -1,11 +1,3 @@
-/public/CPWeb/.well-known/apple-app-site-association
+/CPWeb/.well-known/*
   Content-Type: application/json
-
-/public/CPWeb/.well-known/assetlinks.json
-  Content-Type: application/json
-
-/public/CPWeb/apple-app-site-association
-  Content-Type: application/json
-
-/public/CPWeb/assetlinks.json
-  Content-Type: application/json
+  Access-Control-Allow-Origin: *
